@@ -1,0 +1,52 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(182, 187, 180);
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+.class{
+    display: flex;
+    width: 100%;
+    height:100vh;
+    position: absolute;
+}
+
+section{
+    padding-top: 50px;
+}
+
+ul{
+    display: flex;
+    padding-left: 1200px;
+}
+
+.div{
+    width: 100%;
+    padding: 1em 4em;
+}
+
+.container img{
+    width: 50px;
+    height: 50px;
+}
+
+.container h4 img{
+    width: 20px;
+    height: 20px;
+}
+
+div .all{
+    display: flex;
+    width: 700px;
+    background-color: rgb(182, 172, 159);
+}
+
+div .all {
+    width: 900px
+}
+
